@@ -4,8 +4,8 @@
 
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
+* Julio Maximo - 31645186
+* Leonardo Bacic - 31627293
+* Matheus Martins - 31618571
+* Otávio Villela - 31636209
+* Rafael Guerra - 31618456

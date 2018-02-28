@@ -1,29 +1,28 @@
 # Documento de Visão do Projeto "NOME DO PROJETO"
 
-Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, solicitado pelo cliente *"NOME DO CLIENTE"*, 
-apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades 
-esperadas do sistema.
+Este documento apresenta uma solução de software para o projeto *Sistema de Contratação*, solicitado pelo cliente *Ipioca*, 
+apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas do sistema.
 
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* etc.
+* Facilitar o processo de seleção da empresa
+* Deixar o processo de seleção mais dinâmico
+* Avaliar o maior número de candidatos possíveis
+* Realizar testes online pré entrevista individual
+* Deixar o processo seletivo mais barato
 
 ## Problema
 
-* Descrição do problema: ___
-* Quem é afetado pelo problema: ____
-* Impacto no negócio: ___
+* Descrição do problema: O processo de seleção atual da empresa Ipioca é muito demorado e nem sempre seleciona os melhores candidatos possiveis, portanto deseja criar uma plataforma para facilitar essa seleção e abranger o maior númeor de pessoas com testes e currículos online, para assim selecionar os candidatos certos para uma entrevista pessoal.
+* Quem é afetado pelo problema: Os funcionários de RH da empresa, os quais são responsáveis pelo processo de seleção e os candidatos para vagas.
+* Impacto no negócio: Com esse sistema o processo seletivo o processo será mais rápido e barato, facilitando o processo de seleção e abrangendo o maior número de candidatos
 * Benefícios de uma boa solução: ___
 
 ## Definições, abreviações e outros termos do domínio do problema
 
-* Definição 1
-* Definição 2
-* Definição 3
-* etc.
+* RN - Regras de Negócio
+* FA - Fluxo Alternativo.
+* FE - Fluxo de Exceção.
 
 ## Integração com outros sistemas
 
@@ -41,16 +40,15 @@ esperadas do sistema.
 
 ## Usuários
 
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
+* Administrador do sistema 
+* Avaliador
+* Candidato para vaga
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* Cadastrar currículo
+* Realizar teste online
+* Avaliador poder avaliar todos os candidatos com seus respectivos currículos e testes
 
 ## Restrições do projeto
 

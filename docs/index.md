@@ -1,4 +1,4 @@
-# *Sistema de COntratação*
+# *Sistema de Contratação*
 
 ## Documentos
 

@@ -1,4 +1,4 @@
-# Documento de Visão do Projeto "NOME DO PROJETO"
+# Documento de Visão do Projeto "Sistema de Contratação
 
 Este documento apresenta uma solução de software para o projeto *Sistema de Contratação*, solicitado pelo cliente *Ipioca*, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas do sistema.
@@ -26,10 +26,7 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 ## Integração com outros sistemas
 
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
+Não há integração com outros sistemas
  
 ## Interessados
 

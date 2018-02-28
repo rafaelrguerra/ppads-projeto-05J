@@ -33,10 +33,9 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
  
 ## Interessados
 
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
+* Desenvolvedor
+* Avaliador
+* Administrador
 
 ## Usuários
 

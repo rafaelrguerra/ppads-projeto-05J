@@ -2,10 +2,8 @@
 
 ## 1. Diagrama de casos de uso
 
-<p align="center">
-  <img src="https://imgur.com/a/30259" width="350"/>
+<img src="DDCDU.png" width="350"/>
   
-</p>
 
 **Instruções do professor**: Insira abaixo o diagrama com os casos de uso do seu sistema. A imagem abaixo é somente um exemplo.
 

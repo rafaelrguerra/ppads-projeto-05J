@@ -2,7 +2,7 @@
 
 ## 1. Diagrama de casos de uso
 
-
+![alt text](https://imgur.com/a/30259)
 
 **Instruções do professor**: Insira abaixo o diagrama com os casos de uso do seu sistema. A imagem abaixo é somente um exemplo.
 

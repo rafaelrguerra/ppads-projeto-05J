@@ -48,10 +48,9 @@ Não há integração com outros sistemas
 
 ## Restrições do projeto
 
-* Restrição 1
-* Restrição 2
-* Restrição 3
-* etc.
+* Responsivo apenas para paginas web desktop.
+* Programação em HTML5, CSS, JavaScript e integração com banco de dados MySQL, utilizando PHP.
+* Cada questão terá no máximo 5 alternativas.
 
 ## Protótipos de tela
 

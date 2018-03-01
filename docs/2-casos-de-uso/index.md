@@ -2,11 +2,12 @@
 
 ## 1. Diagrama de casos de uso
 
-![alt text](https://imgur.com/a/30259)
+<p align="center">
+  <img src="https://imgur.com/a/30259" width="350"/>
+  
+</p>
 
 **Instruções do professor**: Insira abaixo o diagrama com os casos de uso do seu sistema. A imagem abaixo é somente um exemplo.
-
-https://imgur.com/a/30259
 
 ## 2. Especificação dos casos de uso
 

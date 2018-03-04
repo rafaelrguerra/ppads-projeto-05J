@@ -56,14 +56,16 @@ Não há integração com outros sistemas
 
 ### Protótipos para funcionalidade 1
 
-![](proto1.png)
+<img src="admin.jpeg" width="350"/>
 
 Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
-### Protótipos para funcionalidade 2
+### Protótipos para Inscrição em uma vaga
 
-![](proto2.png)
+<img src="inscricao.jpeg" width="350"/>
 
 Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
-### Protótipos para funcionalidade N
+### Protótipos para Questionário
+
+<img src="question.jpeg" width="350"/>

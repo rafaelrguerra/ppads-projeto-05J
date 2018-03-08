@@ -37,4 +37,42 @@
 
 **Instruções do professor**: As tabelas acima mostram um exemplo de especificação de **um único caso de uso**. Lembre-se de especificar cada um dos casos de uso.
 
+### 2.8. Caso de uso **Avaliar Testes**
+
+| Campo          | Informação        |
+|---|---|
+| Identificador: | CU07              |
+| Nome:          | Avaliar testes |
+| Atores:        | Avaliador |
+| Sumário:       | Avalia os testes dos candidatos |
+
+| Fluxo Principal |
+|---|
+| 1) O avaliador entra no menu **Testes dos candidatos**. |
+| 2) O avaliador vê a correção das questões de múltipla escolha e avalia as dissertativas. |
+| 3) O avaliador da um nota para o candidato. |
+
+### 2.6. Caso de uso **Convidar Condidato**
+
+| Campo          | Informação        |
+|---|---|
+| Identificador: | CU08              |
+| Nome:          | Convidar candidato |
+| Atores:        | Administrador |
+| Sumário:       | Convida o candidato para po sistema |
+
+| Fluxo Principal |
+|---|
+| 1) O administrador entra no menu **Convidar Condidato**. |
+| 2) O sistema gera uma chave de login. |
+| 3) O administrador insere o email do candidato. |
+| 4) O admnistrador envia a chave para o email do candidato. |
+
+| Fluxo Alternativo (4a): O email do usuário é inválido. |
+|---|
+| 1) O sistema mostra uma mensagem de email inválido. |
+| 2) Volta para o passo (3). |
+
+
+
 

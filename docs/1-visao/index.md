@@ -1,6 +1,6 @@
-# Documento de Visão do Projeto "Sistema de Contratação"
+# Documento de Visão do Projeto "Sistema de Seleção"
 
-Este documento apresenta uma solução de software para o projeto *Sistema de Contratação*, solicitado pelo cliente *Ipioca*, 
+Este documento apresenta uma solução de software para o projeto *Sistema de Seleção*, solicitado pelo cliente *Ipioca*, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas do sistema.
 
 ## Objetivos
@@ -26,13 +26,14 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 ## Integração com outros sistemas
 
-Não há integração com outros sistemas
+* Integração com o sistema de Email
  
 ## Interessados
 
-* Desenvolvedor
+* Gerente de Projeto
 * Avaliador
 * Administrador
+* Departamento de RH
 
 ## Usuários
 
@@ -45,6 +46,9 @@ Não há integração com outros sistemas
 * Cadastrar currículo
 * Realizar teste online
 * Avaliador poder avaliar todos os candidatos com seus respectivos currículos e testes
+* Enviar email para o candidato
+* Fornecer uma chave para os candidatos acessarem o sistema
+* Cadastrar teste online, com questões de múltipla escolha
 
 ## Restrições do projeto
 

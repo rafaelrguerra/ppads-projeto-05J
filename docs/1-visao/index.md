@@ -20,9 +20,7 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 ## Definições, abreviações e outros termos do domínio do problema
 
-* RN - Regras de Negócio
-* FA - Fluxo Alternativo.
-* FE - Fluxo de Exceção.
+* Não há definições, abreviações e outros termos
 
 ## Integração com outros sistemas
 
@@ -43,12 +41,14 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 ## Funcionalidades do produto
 
+* Buscar vagas disponíveis
 * Cadastrar currículo
 * Realizar teste online
 * Avaliador poder avaliar todos os candidatos com seus respectivos currículos e testes
 * Enviar email para o candidato
 * Fornecer uma chave para os candidatos acessarem o sistema
-* Cadastrar teste online, com questões de múltipla escolha
+* CRUD de teste online, com questões de múltipla escolha
+* CRUD de vagas
 
 ## Restrições do projeto
 

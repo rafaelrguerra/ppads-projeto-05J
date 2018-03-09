@@ -71,6 +71,26 @@
 | 1) O sistema mostra uma mensagem de email inválido. |
 | 2) Volta para o passo (3) do fluxo principal. |
 
+### 2.3. Caso de uso **CRUD Vaga**
+ FALTA FAZER ESSE
+| Campo          | Informação        |
+|---|---|
+| Identificador: | CU02              |
+| Nome:          | Responder questinário |
+| Atores:        | Candidato |
+| Sumário:       | O candidato responde ao questionário oferecido. |
+
+| Fluxo Principal |
+|---|
+| 1) O candidato após ter cadastrado seu currículo vai para a página do questionário. |
+| 2) O candidato responde todas as questões do questionário. |
+| 3) O candidato envia suas respostas para o sistema. |
+
+| Fluxo Alternativo (3a): candidato não responde todas as questões. |
+|---|
+| 1) O sistema sinaliza o candidato que é necessário responder todas as questões. |
+| 2) O sistema volta para o passo (2) no do fluxo principal. |
+
 ### 2.8. Caso de uso **Avaliar Testes**
 
 | Campo          | Informação        |

@@ -9,7 +9,7 @@
 
 ## 2. Especificação dos casos de uso
 
-### 2.1. Caso de uso **Convidar Condidato**
+### 2.1. Caso de uso **Buscar vaga**
 
 | Campo          | Informação        |
 |---|---|
@@ -50,21 +50,21 @@
 | 1) O sistema sinaliza o candidato que é necessário responder todas as questões. |
 | 2) O sistema volta para o passo (2) no do fluxo principal. |
 
-### 2.6. Caso de uso **Convidar Condidato**
+### 2.6. Caso de uso **Convidar Candidato**
 
 | Campo          | Informação        |
 |---|---|
 | Identificador: | CU08              |
 | Nome:          | Convidar candidato |
 | Atores:        | Administrador |
-| Sumário:       | Convida o candidato para po sistema |
+| Sumário:       | Convida o candidato para o sistema |
 
 | Fluxo Principal |
 |---|
-| 1) O administrador entra no menu **Convidar Condidato**. |
+| 1) O administrador entra no menu **Convidar Candidato**. |
 | 2) O sistema gera uma chave de login. |
 | 3) O administrador insere o email do candidato. |
-| 4) O admnistrador envia a chave para o email do candidato. |
+| 4) O administrador envia a chave para o email do candidato. |
 
 | Fluxo Alternativo (4a): O email do usuário é inválido. |
 |---|

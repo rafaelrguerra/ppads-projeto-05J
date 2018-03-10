@@ -72,24 +72,25 @@
 | 2) Volta para o passo (3) do fluxo principal. |
 
 ### 2.3. Caso de uso **CRUD Vaga**
- FALTA FAZER ESSE
+
 | Campo          | Informação        |
 |---|---|
 | Identificador: | CU03              |
-| Nome:          | Responder questinário |
-| Atores:        | Candidato |
-| Sumário:       | O candidato responde ao questionário oferecido. |
+| Nome:          | CRUD vaga |
+| Atores:        | Administrador |
+| Sumário:       | Adiciona, atualiza ou remove uma vaga. |
 
 | Fluxo Principal |
 |---|
-| 1) O candidato após ter cadastrado seu currículo vai para a página do questionário. |
-| 2) O candidato responde todas as questões do questionário. |
-| 3) O candidato envia suas respostas para o sistema. |
+| 1) O administrador entra no sistema de vagas. |
+| 2) O administrador clica para adicionar e inclui uma vaga desejada. |
+| 3) O administrador clica para editar e atualiza uma vaga existente. |
+| 4) O administrador clica para excluir uma vaga indisponível e deleta do sistema. |
 
-| Fluxo Alternativo (3a): candidato não responde todas as questões. |
+| Fluxo Alternativo (3a): vaga já existente. |
 |---|
-| 1) O sistema sinaliza o candidato que é necessário responder todas as questões. |
-| 2) O sistema volta para o passo (2) no do fluxo principal. |
+| 1) O administrador tenta adicionar uma vaga já existente e o sistema recusa, voltando para a tela de vagas. |
+| 2) O administrador tenta editar uma vaga porém atualiza para uma já existente, retornar na tela de vagas. |
 
 ### 2.7. Caso de uso **Avaliar Testes**
 

@@ -108,7 +108,7 @@
 | 3) O avaliador da um nota para o candidato. |
 
 ### 2.4. Caso de uso **CRUD Questões**
- FALTA FAZER ESSE
+
 | Campo          | Informação        |
 |---|---|
 | Identificador: | CU04              |

@@ -48,7 +48,7 @@
 | Fluxo Alternativo (3a): candidato não responde todas as questões. |
 |---|
 | 1) O sistema sinaliza o candidato que é necessário responder todas as questões. |
-| 2) O sistema volta para o passo (2) no do fluxo principal. |
+| 2) O sistema volta para o passo (2) do fluxo principal. |
 
 ### 2.3. Caso de uso **CRUD Vaga**
 
@@ -99,6 +99,26 @@
 | 2) O sistema sinaliza o administrador sobre a divergência. |
 | 3) O administrador conserta as respostas. |
 
+### 2.6. Caso de uso **Avaliar currículo**
+
+| Campo          | Informação        |
+|---|---|
+| Identificador: | CU07              |
+| Nome:          | Avaliar currículo |
+| Atores:        | Avaliador |
+| Sumário:       | Avaliador avalia um currículo. |
+
+| Fluxo Principal |
+|---|
+| 1) O avaliador abre o currículo no perfil de um candidato |
+| 2) Depois de ler, o avaliador seleciona o currículo como aprovado ou reprovado |
+| 3) O avaliador confirma a opção |
+
+| Fluxo Alternativo (2a): Nenhuma opção é selecionada. |
+|---|
+| 1) O sistema avisa ao avaliador que é necessário selecionar um opção (aprovado ou reprovado). |
+| 2) Volta para o passo (2) do fluxo principal. |
+
 ### 2.7. Caso de uso **Avaliar Testes**
 
 | Campo          | Informação        |
@@ -113,34 +133,6 @@
 | 1) O avaliador entra no menu **Testes dos candidatos**. |
 | 2) O avaliador vê a correção das questões de múltipla escolha e avalia as dissertativas. |
 | 3) O avaliador da um nota para o candidato. |
-
-### 2.4. Caso de uso **CRUD Questões**
-
-| Campo          | Informação        |
-|---|---|
-| Identificador: | CU04              |
-| Nome:          | CRUD questões |
-| Atores:        | Administrador |
-| Sumário:       | Adiciona, atualiza ou remove alguma questão do questionário. |
-
-| Fluxo Principal |
-|---|
-| 1) O administrador entra no questionário. |
-| 2) O administrador adiciona uma questão desejada. |
-| 3) O administrador atualiza alguma questão existente. |
-| 4) O administrador remove alguma questão na qual ache necessário deletar. |
-
-| Fluxo Alternativo (4a): questão já existente. |
-|---|
-| 1) O administrador adiciona uma questão porém o sistema verifica uma questão igual. |
-| 2) O sistema sinaliza o administrador sobre a divergência. |
-| 3) O administrador conserta a questão. |
-
-| Fluxo Alternativo (4b): questão com alternativas iguais. |
-|---|
-| 1) O administrador adiciona duas ou mais respostas iguais para a mesma questão. |
-| 2) O sistema sinaliza o administrador sobre a divergência. |
-| 3) O administrador conserta as respostas. |
 
 ### 2.8. Caso de uso **Convidar Candidato**
 

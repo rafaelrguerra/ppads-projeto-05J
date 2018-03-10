@@ -99,11 +99,33 @@
 | 2) O sistema sinaliza o administrador sobre a divergência. |
 | 3) O administrador conserta as respostas. |
 
+### 2.5. Caso de uso **Enviar email**
+
+| Campo          | Informação        |
+|---|---|
+| Identificador: | CU05              |
+| Nome:          | Enviar email |
+| Atores:        | Administrador |
+| Sumário:       | Administrador envia email para candidato. |
+
+| Fluxo Principal |
+|---|
+| 1) O administrador entra no perfil de um candidato. |
+| 2) O administrador seleciona opção **Enviar email**. |
+| 3) O administrador escolhe uma mensagem pré-configurada (como de aprovado, reprovado...) ou escreve a própria mensagem |
+| 4) O administrador envia o email. |
+
+| Fluxo Alternativo (2a): email sem mensagem. |
+|---|
+| 1) O administrador tenta enviar o email, porém o sistema verifica que o campo de  mensagem está vazio. |
+| 2) O sistema sinaliza o administrador sobre o problema. |
+| 3) Volta para o passo (3) do fluxo principal. |
+
 ### 2.6. Caso de uso **Avaliar currículo**
 
 | Campo          | Informação        |
 |---|---|
-| Identificador: | CU07              |
+| Identificador: | CU06              |
 | Nome:          | Avaliar currículo |
 | Atores:        | Avaliador |
 | Sumário:       | Avaliador avalia um currículo. |

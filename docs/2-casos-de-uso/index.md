@@ -30,7 +30,7 @@
 | 1) O candidato não encontra uma vaga desejada. |
 | 2) O candidato deixa sua sugestão para inclusão da vaga em um campo específico. |
 
-### 2.1. Caso de uso **Responder questinário**
+### 2.2. Caso de uso **Responder questinário**
 
 | Campo          | Informação        |
 |---|---|
@@ -50,7 +50,7 @@
 | 1) O sistema sinaliza o candidato que é necessário responder todas as questões. |
 | 2) O sistema volta para o passo (2) no do fluxo principal. |
 
-### 2.6. Caso de uso **Convidar Candidato**
+### 2.8. Caso de uso **Convidar Candidato**
 
 | Campo          | Informação        |
 |---|---|
@@ -75,7 +75,7 @@
  FALTA FAZER ESSE
 | Campo          | Informação        |
 |---|---|
-| Identificador: | CU02              |
+| Identificador: | CU03              |
 | Nome:          | Responder questinário |
 | Atores:        | Candidato |
 | Sumário:       | O candidato responde ao questionário oferecido. |
@@ -91,7 +91,7 @@
 | 1) O sistema sinaliza o candidato que é necessário responder todas as questões. |
 | 2) O sistema volta para o passo (2) no do fluxo principal. |
 
-### 2.8. Caso de uso **Avaliar Testes**
+### 2.7. Caso de uso **Avaliar Testes**
 
 | Campo          | Informação        |
 |---|---|
@@ -106,6 +106,32 @@
 | 2) O avaliador vê a correção das questões de múltipla escolha e avalia as dissertativas. |
 | 3) O avaliador da um nota para o candidato. |
 
+### 2.4. Caso de uso **CRUD Questões**
+ FALTA FAZER ESSE
+| Campo          | Informação        |
+|---|---|
+| Identificador: | CU04              |
+| Nome:          | CRUD questões |
+| Atores:        | Administrador |
+| Sumário:       | Adiciona, atualiza ou remove alguma questão do questionário. |
 
+| Fluxo Principal |
+|---|
+| 1) O administrador entra no questionário. |
+| 2) O administrador adiciona uma questão desejada. |
+| 3) O administrador atualiza alguma questão existente. |
+| 4) O administrador remove alguma questão na qual ache necessário deletar. |
+
+| Fluxo Alternativo (4a): questão já existente. |
+|---|
+| 1) O administrador adiciona uma questão porém o sistema verifica uma questão igual. |
+| 2) O sistema sinaliza o administrador sobre a divergência. |
+| 3) O administrador conserta a questão. |
+
+| Fluxo Alternativo (4b): questão com alternativas iguais. |
+|---|
+| 1) O administrador adiciona duas ou mais respostas iguais para a mesma questão. |
+| 2) O sistema sinaliza o administrador sobre a divergência. |
+| 3) O administrador conserta as respostas. |
 
 

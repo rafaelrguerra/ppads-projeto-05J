@@ -30,7 +30,7 @@
 | 1) O candidato não encontra uma vaga desejada. |
 | 2) O candidato deixa sua sugestão para inclusão da vaga em um campo específico. |
 
-### 2.2. Caso de uso **Responder questinário**
+### 2.2. Caso de uso **Responder questionário**
 
 | Campo          | Informação        |
 |---|---|
@@ -42,15 +42,16 @@
 | Fluxo Principal |
 |---|
 | 1) O candidato após ter cadastrado seu currículo vai para a página do questionário. |
-| 2) O candidato responde todas as questões do questionário. |
-| 3) O candidato envia suas respostas para o sistema. |
+| 2) O candidato valida sua identidade com o chave recebida por e-mail e abre o questionário. |
+| 3) O candidato responde todas as questões do questionário. |
+| 4) O candidato envia suas respostas para o sistema. |
 
 | Fluxo Alternativo (3a): candidato não responde todas as questões. |
 |---|
 | 1) O sistema sinaliza o candidato que é necessário responder todas as questões. |
 | 2) O sistema volta para o passo (2) do fluxo principal. |
 
-### 2.3. Caso de uso **CRUD Vaga**
+### 2.3. Caso de uso **Manter Vaga**
 
 | Campo          | Informação        |
 |---|---|
@@ -71,7 +72,7 @@
 | 1) O administrador tenta adicionar uma vaga já existente e o sistema recusa, voltando para a tela de vagas. |
 | 2) O administrador tenta editar uma vaga porém atualiza para uma já existente, retornar na tela de vagas. |
 
-### 2.4. Caso de uso **CRUD Questões**
+### 2.4. Caso de uso **Manter Questões**
 
 | Campo          | Informação        |
 |---|---|

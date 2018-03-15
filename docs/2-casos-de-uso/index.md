@@ -84,7 +84,7 @@
 | Fluxo Principal |
 |---|
 | 1) O administrador entra no questionário. |
-| 2) O administrador adiciona uma questão desejada. |
+| 2) O administrador adiciona uma questão desejada e associa com uma prova. |
 | 3) O administrador atualiza alguma questão existente. |
 | 4) O administrador remove alguma questão na qual ache necessário deletar. |
 

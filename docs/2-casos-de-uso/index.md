@@ -142,14 +142,14 @@
 | 1) O sistema avisa ao avaliador que é necessário selecionar um opção (aprovado ou reprovado). |
 | 2) Volta para o passo (2) do fluxo principal. |
 
-### 2.7. Caso de uso **Avaliar Testes**
+### 2.7. Caso de uso **Avaliar Questões**
 
 | Campo          | Informação        |
 |---|---|
 | Identificador: | CU07              |
-| Nome:          | Avaliar testes |
+| Nome:          | Avaliar questões |
 | Atores:        | Avaliador |
-| Sumário:       | Avalia os testes dos candidatos |
+| Sumário:       | Avalia as questões dos candidatos |
 
 | Fluxo Principal |
 |---|

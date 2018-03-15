@@ -100,19 +100,19 @@
 | 2) O sistema sinaliza o administrador sobre a divergência. |
 | 3) O administrador conserta as respostas. |
 
-### 2.5. Caso de uso **Enviar email**
+### 2.5. Caso de uso **Enviar notificação**
 
 | Campo          | Informação        |
 |---|---|
 | Identificador: | CU05              |
-| Nome:          | Enviar email |
+| Nome:          | Enviar notificação |
 | Atores:        | Administrador |
-| Sumário:       | Administrador envia email para candidato. |
+| Sumário:       | Administrador envia uma notificação para candidato. |
 
 | Fluxo Principal |
 |---|
 | 1) O administrador entra no perfil de um candidato. |
-| 2) O administrador seleciona opção **Enviar email**. |
+| 2) O administrador seleciona opção **Enviar notificação**. |
 | 3) O administrador escolhe uma mensagem pré-configurada (como de aprovado, reprovado...) ou escreve a própria mensagem |
 | 4) O administrador envia o email. |
 
@@ -171,7 +171,8 @@
 | 1) O administrador entra no menu **Convidar Candidato**. |
 | 2) O sistema gera uma chave de login. |
 | 3) O administrador insere o email do candidato. |
-| 4) O administrador envia a chave para o email do candidato. |
+| 4) O administrador insere o código da vaga. |
+| 5) O administrador envia a chave para o email do candidato. |
 
 | Fluxo Alternativo (4a): O email do usuário é inválido. |
 |---|

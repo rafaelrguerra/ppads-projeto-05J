@@ -47,8 +47,8 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 * Avaliador poder avaliar todos os candidatos com seus respectivos currículos e testes
 * Enviar email para o candidato
 * Fornecer uma chave para os candidatos acessarem o sistema
-* CRUD de teste online, com questões de múltipla escolha
-* CRUD de vagas
+* Manter teste online, com questões de múltipla escolha
+* Manter vagas
 
 ## Restrições do projeto
 

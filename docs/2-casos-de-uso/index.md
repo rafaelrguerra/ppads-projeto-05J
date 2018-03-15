@@ -154,8 +154,8 @@
 | Fluxo Principal |
 |---|
 | 1) O avaliador entra no menu **Testes dos candidatos**. |
-| 2) O avaliador vê a correção das questões de múltipla escolha e avalia as dissertativas. |
-| 3) O avaliador da um nota para o candidato. |
+| 2) O avaliador visualiza as questões dissertativas. |
+| 3) O avaliador da um nota para o candidato com seu próprio critério. |
 
 ### 2.8. Caso de uso **Convidar Candidato**
 

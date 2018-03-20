@@ -2,6 +2,7 @@
 
 ## 1. Diagrama de casos de uso
 
+
 <img src="CasodeUso.jpg" width="350"/>
   
 

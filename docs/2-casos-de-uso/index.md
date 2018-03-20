@@ -56,7 +56,7 @@
 | Campo          | Informação        |
 |---|---|
 | Identificador: | CU03              |
-| Nome:          | CRUD vaga |
+| Nome:          | Manter vaga |
 | Atores:        | Administrador |
 | Sumário:       | Adiciona, atualiza ou remove uma vaga. |
 
@@ -77,7 +77,7 @@
 | Campo          | Informação        |
 |---|---|
 | Identificador: | CU04              |
-| Nome:          | CRUD questões |
+| Nome:          | Manter questões |
 | Atores:        | Administrador |
 | Sumário:       | Adiciona, atualiza ou remove alguma questão do questionário. |
 

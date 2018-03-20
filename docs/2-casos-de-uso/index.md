@@ -2,7 +2,7 @@
 
 ## 1. Diagrama de casos de uso
 
-<img src="CasodeUso.jpg" width="350"/>
+<img src="CasodeUso.jpg" width="351"/>
   
 
 **Instruções do professor**: Insira abaixo o diagrama com os casos de uso do seu sistema. A imagem abaixo é somente um exemplo.

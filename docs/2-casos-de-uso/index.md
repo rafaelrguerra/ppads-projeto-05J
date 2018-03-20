@@ -99,11 +99,33 @@
 | 2) O sistema sinaliza o administrador sobre a divergência. |
 | 3) O administrador conserta as respostas. |
 
-### 2.5. Caso de uso **Enviar notificação**
+### 2.5. Caso de uso **Manter Provas**
 
 | Campo          | Informação        |
 |---|---|
 | Identificador: | CU05              |
+| Nome:          | Manter provas |
+| Atores:        | Administrador |
+| Sumário:       | Adiciona, atualiza ou remove alguma prova do sistema. |
+
+| Fluxo Principal |
+|---|
+| 1) O administrador entra na lista de provas. |
+| 2) O administrador adiciona uma prova. |
+| 3) O administrador atualiza alguma prova existente. |
+| 4) O administrador remove alguma prova na qual ache necessário deletar. |
+
+| Fluxo Alternativo (4a): prova já existente. |
+|---|
+| 1) O administrador adiciona uma prova porém o sistema verifica uma prova igual. |
+| 2) O sistema sinaliza o administrador sobre a divergência. |
+| 3) O administrador decide o que fazer. |
+
+### 2.6. Caso de uso **Enviar notificação**
+
+| Campo          | Informação        |
+|---|---|
+| Identificador: | CU06              |
 | Nome:          | Enviar notificação |
 | Atores:        | Administrador |
 | Sumário:       | Administrador envia uma notificação para candidato. |
@@ -121,11 +143,11 @@
 | 2) O sistema sinaliza o administrador sobre o problema. |
 | 3) Volta para o passo (3) do fluxo principal. |
 
-### 2.6. Caso de uso **Avaliar currículo**
+### 2.7. Caso de uso **Avaliar currículo**
 
 | Campo          | Informação        |
 |---|---|
-| Identificador: | CU06              |
+| Identificador: | CU07              |
 | Nome:          | Avaliar currículo |
 | Atores:        | Avaliador |
 | Sumário:       | Avaliador avalia um currículo. |
@@ -141,11 +163,11 @@
 | 1) O sistema avisa ao avaliador que é necessário selecionar um opção (aprovado ou reprovado). |
 | 2) Volta para o passo (2) do fluxo principal. |
 
-### 2.7. Caso de uso **Avaliar Questões**
+### 2.8. Caso de uso **Avaliar Questões**
 
 | Campo          | Informação        |
 |---|---|
-| Identificador: | CU07              |
+| Identificador: | CU08              |
 | Nome:          | Avaliar questões |
 | Atores:        | Avaliador |
 | Sumário:       | Avalia as questões dos candidatos |
@@ -156,11 +178,11 @@
 | 2) O avaliador visualiza as questões dissertativas. |
 | 3) O avaliador da um nota para o candidato com seu próprio critério. |
 
-### 2.8. Caso de uso **Convidar Candidato**
+### 2.9. Caso de uso **Convidar Candidato**
 
 | Campo          | Informação        |
 |---|---|
-| Identificador: | CU08              |
+| Identificador: | CU09              |
 | Nome:          | Convidar candidato |
 | Atores:        | Administrador |
 | Sumário:       | Convida o candidato para o sistema |

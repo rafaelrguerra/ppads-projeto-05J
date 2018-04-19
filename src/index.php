@@ -10,9 +10,9 @@
 
 <body>
   <center>
-    <a href="admin.php" style="text-decoration:none; color:black">
-		<h1>SISTEMA DE CONTRATAÇÃO - iPIOCA</h1>
-	</a>
+    
+		<h1>SISTEMA DE CONTRATAÇÃO - iPIOCA</h1><h2><a class="adm" href = 'admin.php'>PÁGINA DO ADMINISTRADOR</a></h2>
+	
     <h2>Vagas Disponíveis</h2>
     <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Buscar por vagas..." title="Type in a name">
 

@@ -4,13 +4,15 @@
 <head>
   <meta charset="UTF-8">
   <title>Trabalho PPADS</title>  
-      <link rel="stylesheet" href="css/style.css">
+      <link rel="stylesheet" href="css/style.css"/>
       <link rel="shortcut icon" href="icone.png" type="image/x-icon" />
 </head>
 
 <body>
   <center>
-    <h1>SISTEMA DE CONTRATAÇÃO - iPIOCA</h1>
+    <a href="admin.php" style="text-decoration:none; color:black">
+		<h1>SISTEMA DE CONTRATAÇÃO - iPIOCA</h1>
+	</a>
     <h2>Vagas Disponíveis</h2>
     <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Buscar por vagas..." title="Type in a name">
 

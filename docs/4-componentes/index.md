@@ -1,5 +1,5 @@
 # Detalhamento dos componentes
 
-Para cada componente da solução, elaborar um diagrama de classes.
+Diagrama de classes do projeto
 
-Veja alguns [exemplos de diagramas de classes](http://www.itmeyer.at/umlet/uml2/travelDetailDiagram.html).
+<img src="diagrama-de-classes.png" style="width:300px"></img>

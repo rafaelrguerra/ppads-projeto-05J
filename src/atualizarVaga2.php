@@ -50,7 +50,7 @@
 			<a href="atualizarVaga.php">Voltar</a>
 		</div>
 		
-		<br>
+		<?php $conn = null; ?>
 		
 	</body>
 </html>

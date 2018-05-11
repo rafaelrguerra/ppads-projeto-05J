@@ -30,10 +30,13 @@
 		
 		
 			<h1>Gerenciar questões</h1>
-			<p><a href="">Opção 1</a></p>
-			<p><a href="">Opção 2</a></p>
-			<p><a href="">Opção 3</a></p>		
+			<p><a href="questao/atualizarQuestao.php">Atualizar questão</a></p>
+			<p><a href="questao/excluirQuestao.php">Excluir questão</a></p>
+			<p><a href="questao/adicionarQuestao.php">Adicionar questão</a></p>		
 		
-		
+			<h1>Gerenciar testes</h1>
+			<p><a href="teste/excluirTeste.php">Excluir teste</a></p>
+			<p><a href="teste/adicionarTeste.php">Adicionar teste</a></p>
+			
 	</body>
 </html>

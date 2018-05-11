@@ -37,14 +37,9 @@
 					?>
 				</select><br/><br/>
 
-			
-				
 				<input type="submit" value="Atualizar vaga"/>
-				
-				
-			</form>
-			
-			
+						
+			</form>		
 				<?php
 				if(isset($_SESSION['error'])){
 					echo $_SESSION['error'];
@@ -54,8 +49,5 @@
 			
 			<a href="admin.php">Voltar</a>
 		</div>
-
-		
-		
 	</body>
 </html>

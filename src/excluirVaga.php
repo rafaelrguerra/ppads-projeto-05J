@@ -47,7 +47,7 @@
 				echo $_SESSION['error'];
 				unset($_SESSION['error']);
 			}	
-
+			$conn = null;
 			?>
 			<br/>
 			<a href="admin.php">Voltar</a>

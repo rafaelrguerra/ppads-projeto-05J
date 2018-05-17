@@ -6,4 +6,4 @@
 
 ## Implantação
 
-<img src="DiagramaDeImplantação.jpeg" width="600"/>
+<img src="DiagramaDeImplantação.jpg" width="600"/>

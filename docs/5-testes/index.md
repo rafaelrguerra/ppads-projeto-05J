@@ -102,3 +102,27 @@ Em cada procedimento de teste, siga o modelo abaixo:
 | 2 | Editar a prova | Apresentação do formulário com as informações da prova |
 | 3 | Excluir prova | Apresentação das provas cadastradas |
 
+**Procedimento de teste:**
+
+| Passo | Procedimento | Resultado esperado |
+| --- | --- | --- |
+| 1 | Criar a vaga | Apresentação de formulário para preencher com informações da nova vaga |
+| 2 | Editar a vaga | Apresentação do formulário com as informações já existentes da vaga |
+| 3 | Excluir vaga | Apresentação de vagas cadastradas |
+
+**Nome do caso de uso:** Avaliar questões
+
+**Preparação:**
+
+* Responder as questões da prova
+* Somente após responder, logar como administrador
+
+**Procedimento de teste:**
+
+| Passo | Procedimento | Resultado esperado |
+| --- | --- | --- |
+| 1 | Colocar uma resposta correta | Nenhum |
+| 2 | Colocar uma resposta errada | Nenhum |
+| 3 | Enviar formulário | Apresentação da tela de confirmação |
+| 4 | Logar como administrador  | Apresentação da página do administrador |
+| 5 | Entrar na vaga para ver resultados | Apresentação da tela com todos os candidatos e suas respectivas notas |
